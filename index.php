@@ -13,7 +13,8 @@
     <h1>CSS Masterclass - ICT & Media Design - S3</h1>
 </header>
 <main>
-    <section id="slang">
+    <section id="creeper">
+        <!--        horizontale rij 1-->
         <div>
             <div></div>
         </div>
@@ -38,6 +39,8 @@
         <div>
             <div></div>
         </div>
+
+        <!--        horizontale rij 2-->
         <div>
             <div></div>
         </div>
@@ -62,1019 +65,16 @@
         <div>
             <div></div>
         </div>
+
+        <!--        horizontale rij 3-->
         <div>
             <div></div>
         </div>
         <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
+            <div class="black"></div>
         </div>
         <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
+            <div class="black"></div>
         </div>
         <div>
             <div></div>
@@ -1083,25 +83,24 @@
             <div></div>
         </div>
         <div>
-            <div></div>
-        </div>
-        <div>
-            <div></div>
+            <div class="black"></div>
         </div>
         <div>
-            <div></div>
+            <div class="black"></div>
         </div>
         <div>
             <div></div>
         </div>
+
+        <!--        horizontale rij 4-->
         <div>
             <div></div>
         </div>
         <div>
-            <div></div>
+            <div class="black"></div>
         </div>
         <div>
-            <div></div>
+            <div class="black"></div>
         </div>
         <div>
             <div></div>
@@ -1110,14 +109,16 @@
             <div></div>
         </div>
         <div>
-            <div></div>
+            <div class="black"></div>
         </div>
         <div>
-            <div></div>
+            <div class="black"></div>
         </div>
         <div>
             <div></div>
         </div>
+
+        <!--        horizontale rij 5-->
         <div>
             <div></div>
         </div>
@@ -1128,10 +129,10 @@
             <div></div>
         </div>
         <div>
-            <div></div>
+            <div class="black"></div>
         </div>
         <div>
-            <div></div>
+            <div class="black"></div>
         </div>
         <div>
             <div></div>
@@ -1142,6 +143,8 @@
         <div>
             <div></div>
         </div>
+
+        <!--        horizontale rij 6-->
         <div>
             <div></div>
         </div>
@@ -1149,16 +152,16 @@
             <div></div>
         </div>
         <div>
-            <div></div>
+            <div class="black"></div>
         </div>
         <div>
-            <div></div>
+            <div class="black"></div>
         </div>
         <div>
-            <div></div>
+            <div class="black"></div>
         </div>
         <div>
-            <div></div>
+            <div class="black"></div>
         </div>
         <div>
             <div></div>
@@ -1166,6 +169,8 @@
         <div>
             <div></div>
         </div>
+
+        <!--        horizontale rij 7-->
         <div>
             <div></div>
         </div>
@@ -1173,16 +178,16 @@
             <div></div>
         </div>
         <div>
-            <div></div>
+            <div class="black"></div>
         </div>
         <div>
-            <div></div>
+            <div class="black"></div>
         </div>
         <div>
-            <div></div>
+            <div class="black"></div>
         </div>
         <div>
-            <div></div>
+            <div class="black"></div>
         </div>
         <div>
             <div></div>
@@ -1190,6 +195,8 @@
         <div>
             <div></div>
         </div>
+
+<!--        horizontale rij 8-->
         <div>
             <div></div>
         </div>
@@ -1197,7 +204,7 @@
             <div></div>
         </div>
         <div>
-            <div></div>
+            <div class="black"></div>
         </div>
         <div>
             <div></div>
@@ -1206,7 +213,7 @@
             <div></div>
         </div>
         <div>
-            <div></div>
+            <div class="black"></div>
         </div>
         <div>
             <div></div>
