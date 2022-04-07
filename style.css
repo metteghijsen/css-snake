@@ -1,0 +1,70 @@
+:root{
+    --background-color-1: #0054f5;
+    --background-color-2: #73baff;
+    --background-color-3: #00d8ec;
+    --background-color-4: #001e94;
+    --background-color-5: #00a3ff;
+    --text-color: #ffffff;
+    --aantal-kolommen-slang:20;
+}
+
+@font-face {
+    font-family: "Poppins-Medium";
+    src: url("Poppins-Medium.ttf") format("truetype");
+}
+
+body{
+    background-color: #393939;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family: Poppins-Medium;
+}
+
+h1{
+    color: var(--text-color);
+    margin: 30px;
+}
+
+section#slang{
+    display: grid;
+    grid-template-columns: repeat(var(--aantal-kolommen-slang), 1fr);
+}
+
+section#slang>div{
+    padding-bottom: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+section#slang>div>div{
+    background-color: var(--background-color-1);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    transition: all cubic-bezier(0,0,0,40) 1000ms;
+    transform: scale(0,0);
+}
+
+section#slang>div:hover>div{
+    transform: scale(1,1);
+}
+
+section#slang>div:nth-child(3n+2)>div{
+    background-color: var(--background-color-2);
+}
+
+section#slang>div:nth-child(5n+1)>div{
+    background-color: var(--background-color-3);
+}
+
+section#slang>div:nth-child(3n+1)>div{
+    background-color: var(--background-color-4);
+}
+
+section#slang>div:nth-child(4n+3)>div{
+    background-color: var(--background-color-5);
+}
